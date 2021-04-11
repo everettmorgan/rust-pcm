@@ -1,4 +1,4 @@
-use myproject;
+use pcm;
 
 // nested paths
 // use std::{cmp::Ordering, io};
@@ -8,7 +8,7 @@ use myproject;
 // use std::collections::*;
 
 fn main() {
-    myproject::eat_at_restaurant();
-    // myproject::hosting::add_to_waitlist();
-    // myproject::serving::take_order();
+    pcm::eat_at_restaurant();
+    // pcm::hosting::add_to_waitlist();
+    // pcm::serving::take_order();
 }
